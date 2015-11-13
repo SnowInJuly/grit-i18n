@@ -4,9 +4,8 @@
 
 Please feel free to contribute patches to GRIT.  If you have a new project using GRIT, please let us know by sending a message to the developer group (http://groups.google.com/group/grit-developer), and join the user group (http://groups.google.com/group/grit-users).  Also, note the RegressionTestPlan that describes how we ensure GRIT stays compatible with your project.
 
-Those who send the occasional patch should ask one of the project committers (https://code.google.com/p/grit-i18n/people/list) to land their patch for them after review.  Please read the following section on preparing patches for review.
-
-Those who have submitted several patches and expect to submit patches on a regular basis should request to become committers.  See the section below on that.
+GRIT"s code now lives in Chromiums code repository in tools/grit.  To change it, please follow Chromium's normal code
+review process. The rest of this wiki page still applies.
 
 == Preparing Patches ==
 
